@@ -1,0 +1,11 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "0.0.1",
+  "description": "Flashcard generator homework",
+  "main": "main.js",
+  "author": "Zeynep Dayar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
